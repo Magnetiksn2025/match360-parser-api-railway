@@ -1,0 +1,1 @@
+web: python -m spacy download fr_core_news_md && python app.py
